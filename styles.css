@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+
+p {
+    font-size: x-large;
+    font-style: italic;
+    padding-top: 20px;
+}
+
+h1 {
+    color: crimson;
+}
+
+ol {
+    font-style: oblique;
+}
